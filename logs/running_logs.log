@@ -1,0 +1,42 @@
+[2024-07-28 11:32:13,599: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-28 11:32:13,603: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-28 11:32:13,606: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-28 11:32:13,608: INFO: common: created directory at: artifacts]
+[2024-07-28 11:32:13,610: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-28 11:32:14,313: INFO: 2280763589: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 100356
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c7eb16441bd00dc318bbc922b362147e8ed3565dc5d64a9c26ca21170ebbd49e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1C1C:10CE:E25B88:F0F26E:66A68EAD
+Accept-Ranges: bytes
+Date: Sun, 28 Jul 2024 18:32:14 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sjc10033-SJC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1722191534.178472,VS0,VE129
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9313fd95bc22fa17037654a486067191219ae3f4
+Expires: Sun, 28 Jul 2024 18:37:14 GMT
+Source-Age: 0
+
+]
+[2024-07-28 11:33:25,120: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-28 11:33:25,120: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-28 11:33:25,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-28 11:33:25,122: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-28 11:33:25,122: INFO: common: created directory at: artifacts]
+[2024-07-28 11:33:25,122: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-28 11:33:25,122: INFO: data_ingestion: File already exists of size: ~ 98 KB]
+[2024-07-28 11:33:25,124: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
